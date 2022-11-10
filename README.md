@@ -1,2 +1,2 @@
-![plot](.read.jpeg)
+![plot](./read.jpeg)
 
